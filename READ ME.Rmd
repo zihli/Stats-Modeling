@@ -24,30 +24,35 @@ packages: (MASS) + (class)
 Resampling Methods.R
 -----------------------
 Cross-validation + K-fold Cross Validation + The Bootstrap 
+
 packages: (boot)
 
 
 Linear Model Selection and Regularization.Rmd
 -----------------------
 Stepwise Selection + Validation and Cross-validation + The Lasso + Tuning parameter selection + Dimension Reduction Methods + Principal Components Regression and Partial Least Squares
+
 packages: (leaps) + (glmnet)
 
 
 Nonlinear Functions.Rmd
 ------------------------
 Polynomials and step functions + Piecewise-Polynomials and Splines + Smoothing Splines + Generalized Additive Models and Local Regression
+
 packages: (spines) + (gam)
 
 
 Tree-Based Methods.Rmd
 -----------------------
 Tree-based methods + Classification trees + Bagging and Random forests + Boosting
+
 packages: (tree) + (randomForest) + (MASS) + (gbm)
 
 
 Support Vector Machines.Rmd
 ------------------------
 Optimal Separating Hyperlanes + Support Vector Classifier
+
 packages: (e1071)
 
 
